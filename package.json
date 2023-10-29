@@ -12,5 +12,9 @@
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "smallephant/example-github-package-smallephant"
   }
 }
