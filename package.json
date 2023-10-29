@@ -1,0 +1,13 @@
+{
+  "name": "@smallephant/example-github-package-smallephant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
