@@ -15,6 +15,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "smallephant/example-github-package-smallephant"
+    "url": "https://github.com/smallephant/example-github-package-smallephant.git"
   }
 }
